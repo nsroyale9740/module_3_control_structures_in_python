@@ -50,7 +50,7 @@ git clone https://github.com/nsroyale9740/module_3_control_structures_in_python.
 
 Navigate to the repository:
 
-cd python-assignment2
+cd module_3_control_structures_in_python
 
 
 Run the programs:
@@ -70,11 +70,8 @@ Basic Arithmetic Operations
 
 Printing Formatted Output
 
-Validation and Error Handling
-
 Ensures valid integer input for checking even or odd.
 
-Handles invalid input gracefully using try-except where applicable.
 
 Repository Structure
 module_3_control_structures_in_python/
@@ -91,5 +88,5 @@ This assignment is based on Module 3: Control Structures in Python from the prov
 👨‍💻 Author
 
 Name: Naveen
-Course: Python Programming - Module 3 Assignment
+Course: Control Structures in Python - Module 3 Assignment
 GitHub: [https://github.com/nsroyale9740/module_3_control_structures_in_python.git]
